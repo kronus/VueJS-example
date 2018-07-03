@@ -1,4 +1,4 @@
-# y
+# vuejs-example
 
 > A Vue.js project
 
